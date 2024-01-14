@@ -2,8 +2,9 @@
  * Hello
  */
 public class Hello {
-
-    public void main(String arg[]){
+    public Hello(){}
+    
+    public void show(){
         System.out.println("Hello, World");
     }
 }
